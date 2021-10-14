@@ -9,6 +9,6 @@
 千石3Fに売っていたこの3Vモーターです。
 仕様はこんな感じです。
 ![3V motor](/images/3vmotor.jpg)
-
+<img src="/images/3vmotor.jpg" width="300">
 ## DCモータードライバー
 
