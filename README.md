@@ -4,7 +4,7 @@
 
 M5stackC plusと3Vモータを使います。
 
-![全体イメージ](/images/body.jpg)
+<img src="images/body.jpg" width="300">
 
 公開ファイルは、自由に使用してもらって問題ありません。
 ただし、使用に関してはユーザーの判断でお願いします。
