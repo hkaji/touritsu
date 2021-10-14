@@ -2,7 +2,7 @@
 
 倒立ロボット作成のメモです。
 
-M5stackC plusと3Vモータを使います。
+M5stackC plusと3Vモータを使います。使用パーツの詳細は、[こちら](parts.md)のファイルへ。
 
 <img src="images/body.jpg" width="300">
 
