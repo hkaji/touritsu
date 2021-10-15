@@ -10,6 +10,6 @@ M5stackC plusと3Vモータを使います。使用パーツの詳細は、[こ�
 ただし、使用に関してはユーザーの判断でお願いします。
 
 - Change log
-    - 2021/10/14 driver holder,写真 update
-    - 2021/10/2 touritsu_body update
-    - 2021/10/1 first commit
+  - 2021/10/14 driver_holder, images, parts.md update
+  - 2021/10/2 touritsu_body update
+  - 2021/10/1 first commit
